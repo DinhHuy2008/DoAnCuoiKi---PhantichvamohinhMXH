@@ -1,0 +1,15 @@
+{
+  "id": "huy2008/taobao-processing",
+  "title": "Taobao Processing",
+  "code_file": "run_dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "huy2008/taobao-00"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
