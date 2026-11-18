@@ -1,0 +1,17 @@
+
+{
+  "id": "huy2008/taobao-eda-6-charts",
+  "title": "Taobao EDA - 6 Charts",
+  "code_file": "6_Notebook_EDA.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "huy2008/taobao-clean"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
